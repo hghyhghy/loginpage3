@@ -1,0 +1,290 @@
+.cd button {
+  background-color: black;
+
+  color: white;
+
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.g button {
+  background-color: black;
+
+  color: white;
+
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.a:hover {
+  background-color: slateblue;
+}
+
+.cd {
+  position: absolute;
+
+  top: 83%;
+
+  left: 35%;
+}
+
+.a input {
+  font-size: larger;
+
+  font-weight: bolder;
+  border: none;
+  border-top-left-radius: 15px;
+}
+
+.b input {
+  font-size: larger;
+
+  font-weight: bolder;
+  border: none;
+  border-top-left-radius: 15px;
+}
+
+.c input {
+  font-size: larger;
+
+  font-weight: bolder;
+  border: none;
+  border-top-left-radius: 15px;
+}
+
+.g {
+  position: absolute;
+
+  top: 83%;
+
+  left: 20%;
+}
+
+.ab {
+  font-size: larger;
+
+  font-weight: bolder;
+}
+
+.book {
+  position: absolute;
+
+  top: 56%;
+  left: 20%;
+}
+
+.book span {
+  color: white;
+}
+
+.hd1 {
+  position: absolute;
+  top: 44%;
+
+  left: 44%;
+
+  font-size: larger;
+
+  font-weight: bolder;
+}
+
+.hd {
+  position: absolute;
+
+  top: 34%;
+
+  left: 44%;
+
+  background-color: yellow;
+
+  color: black;
+
+  font-size: larger;
+
+  font-weight: bolder;
+}
+
+.m {
+  position: absolute;
+
+  top: 23%;
+
+  left: 1%;
+
+  /* background-image: url(s.jpg); */
+
+  background-color: red;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.span {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.pl input {
+  font-size: large;
+  background-color: white;
+
+  font-weight: bolder;
+}
+
+.pl1 input {
+  position: absolute;
+  left: 11%;
+
+  height: 14%;
+
+  border: none;
+  background-color: white;
+
+  width: 80%;
+  font-size: large;
+
+  font-weight: bolder;
+}
+
+.pl2 input {
+  position: absolute;
+
+  left: 11%;
+
+  height: 14%;
+  width: 73%;
+
+  font-size: large;
+  background-color: white;
+
+  font-weight: bolder;
+
+  color: black;
+
+  border: none;
+}
+
+.pl3 input {
+  position: absolute;
+
+  left: 11%;
+
+  height: 14%;
+  width: 73%;
+
+  font-size: large;
+  background-color: white;
+
+  font-weight: bolder;
+
+  color: black;
+
+  border: none;
+}
+.d input {
+  position: absolute;
+  left: 10%;
+
+  top: 45%;
+
+  height: 49%;
+  width: 71%;
+
+  /* background: white; */
+
+  color: black;
+
+  font-size: large;
+  border: none;
+
+  justify-content: center;
+}
+
+.sub {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.d {
+  border-top-right-radius: 15%;
+  border-bottom-right-radius: 15%;
+}
+
+.d span {
+  color: black;
+
+  font-weight: bolder;
+
+  left: 13%;
+}
+
+.box {
+  position: absolute;
+
+  top: 34%;
+  left: 8%;
+
+  width: 25%;
+}
+
+.tag {
+  position: absolute;
+
+  top: 16%;
+  left: 74%;
+
+  font-size: larger;
+
+  font-weight: bolder;
+
+  color: black;
+}
+
+.nav {
+  position: absolute;
+  top: 1%;
+  left: 9%;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: flex;
+  padding: -1%;
+
+  background-color: rgb(147, 121, 121);
+
+  color: black;
+  height: 10%;
+
+  box-shadow: 0 0 50px 15px white;
+
+  justify-content: space-around;
+  width: 80%;
+
+  font-weight: bolder;
+
+  font-size: 0.35rem;
+}
+
+.nav button {
+  font-weight: bolder;
+}
+
+body {
+  background-image: url(dhr.jpg);
+
+  background-size: cover;
+}
+
+.menu {
+  background: none;
+}
+
+.pay {
+  position: absolute;
+
+  top: 87%;
+
+  left: 35%;
+}
